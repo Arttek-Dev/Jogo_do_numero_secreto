@@ -8,11 +8,7 @@ O projeto desenvolvido neste curso é um jogo que demonstra a aplicação dos co
 
 ## Acesso ao Projeto
 
-O projeto pode ser acessado através do seguinte link: [Jogo - Alura](https://jogo-iota-ochre.vercel.app/)
-
-## Como Contribuir
-
-Este projeto é parte de um curso da Alura e não está aberto a contribuições externas no momento.
+O projeto pode ser acessado através do seguinte link: [Jogo do número secreto](https://jogo-iota-ochre.vercel.app/)
 
 ## Contato
 
